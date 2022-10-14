@@ -3,8 +3,8 @@ This python code is to get current margin of trading account in 5Paisa (automate
 
 Libraries to be installed 
 
-pip install py5paisa
+1 - pip install py5paisa
 
-pip install pyTelegramBotAPI
+2 - pip install pyTelegramBotAPI
 
-pip install undetected_chromedriver
+3 - pip install undetected_chromedriver

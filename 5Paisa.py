@@ -65,4 +65,4 @@ TOKEN = 'TOKEN'
 tb = telebot.TeleBot(TOKEN)
 
 user = tb.get_me()
-tb.send_message(your_chat_ID, b)
+tb.send_message(your_chat_ID, NetMargin)
